@@ -3,6 +3,8 @@
 
 - 🏆 I’m currently learning **Flutter, with an eye on endless possibilities ahead**
 
+- 🔭 I’m currently immersed in **a frontend project, sharping my React skills.**
+
 - 💬 Ask me about **React, MERN, C, ......**
 
 - 📫 How to reach me **ranasinghehashinih@gmail.com**
