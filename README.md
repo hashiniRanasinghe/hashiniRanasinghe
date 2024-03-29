@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hashini Ranasinghe</h1>
+<h1 align="center">Hi there 👋, I'm Hashini Ranasinghe</h1>
 <h3 align="center">Reacting to Excellence: Crafting Dynamic User Interfaces</h3>
 
 - 🏆 I’m currently learning **Flutter, with an eye on endless possibilities ahead**
