@@ -3,7 +3,7 @@
 
 - 🏆 I’m currently learning **Flutter, with an eye on endless possibilities ahead**
 
-- 💬 Ask me about **React, MERN, C, ...**
+- 💬 Ask me about **React, MERN, C, ......**
 
 - 📫 How to reach me **ranasinghehashinih@gmail.com**
 
