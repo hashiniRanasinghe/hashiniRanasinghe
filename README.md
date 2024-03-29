@@ -3,7 +3,7 @@
 
 - 🏆 I’m currently learning **Flutter, with an eye on endless possibilities ahead**
 
-- 🔭 I’m currently immersed in **a frontend project, sharping my React skills.**
+- 🔭 I’m currently immersed in **a frontend project, sharpening my React skills.**
 
 - 💬 Ask me about **React, MERN, C, ......**
 
